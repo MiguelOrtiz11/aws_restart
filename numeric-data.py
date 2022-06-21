@@ -13,3 +13,4 @@ print(str(myValue) + " is of the data type " + str(type(myValue)))
 myValue=False
 print(str(myValue) + " is of the data type " + str(type(myValue)))
 
+print(hola)
