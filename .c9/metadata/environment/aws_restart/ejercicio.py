@@ -1,1 +1,0 @@
-{"mime":"text/x-script.python","filter":false,"title":"ejercicio.py","tooltip":"/aws_restart/ejercicio.py","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1655777510154,"hash":"e141cf79d229142d892738ed99eb4387af719c2f"}
